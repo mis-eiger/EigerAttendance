@@ -31,7 +31,7 @@
     </LinearLayout>
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imageSignInButton"
         android:layout_width="232dp"
         android:layout_height="44dp"
         android:layout_gravity="center_horizontal"
@@ -39,7 +39,7 @@
         android:src="@drawable/sign_in_button" />
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imageChart"
         android:layout_width="30dp"
         android:layout_height="30dp"
         android:layout_marginTop="530dp"
@@ -47,7 +47,7 @@
         android:src="@drawable/icon_stats" />
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imageProfile"
         android:layout_width="30dp"
         android:layout_height="30dp"
         android:layout_marginTop="530dp"
@@ -55,7 +55,7 @@
         android:src="@drawable/icon_profile" />
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imageDropPin"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:layout_marginTop="300dp"
@@ -63,7 +63,7 @@
         android:src="@drawable/icon_location" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/textLocation"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="300dp"
@@ -74,7 +74,7 @@
         android:textSize="18sp" />
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imageReload"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:layout_marginTop="300dp"
@@ -82,7 +82,7 @@
         android:src="@drawable/icon_reload" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/textHead"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="40dp"
@@ -103,7 +103,7 @@
         android:textSize="75sp" />
 
     <TextClock
-        android:id="@+id/textClock"
+        android:id="@+id/textDate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="150dp"
