@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#332B2B</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorHint">#c5c5c5</color>
+
+    <color name="bg">#FD4415</color>
+    <color name="text">#FFFFFF</color>
+    <drawable name="btn_login">#757275</drawable>
+    <drawable name="btn_login_clicked">#FF2A07</drawable>
 </resources>
