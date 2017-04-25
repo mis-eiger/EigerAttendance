@@ -28,13 +28,24 @@
 
     </LinearLayout>
 
-    <ImageView
-        android:id="@+id/imageSignInButton"
-        android:layout_width="232dp"
-        android:layout_height="44dp"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="475dp"
-        android:src="@drawable/button_enter" />
+    <Button
+        android:id="@+id/btnEnter"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="465dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="60dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/button_enter"
+        android:padding="60dp" />
+
+    <!--<ImageView-->
+        <!--android:id="@+id/imageSignInButton"-->
+        <!--android:layout_width="232dp"-->
+        <!--android:layout_height="44dp"-->
+        <!--android:layout_gravity="center_horizontal"-->
+        <!--android:layout_marginTop="475dp"-->
+        <!--android:src="@drawable/button_enter" />-->
 
     <ImageView
         android:id="@+id/imageChart"
